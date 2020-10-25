@@ -1,0 +1,16 @@
+[
+    {
+        "filter_name": "select",
+        "filter_values": [
+            "en",
+            "in",
+            "und",
+            "de",
+            "nl",
+            "tl",
+            "es",
+            "ro",
+            "fr"
+        ]
+    }
+]
